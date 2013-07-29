@@ -1,0 +1,8 @@
+name: DungeonMazeApiExample
+description: 'Dungeon Maze API Example'
+main: com.timvisee.dungeonmazeapiexample.DungeonMazeApiExample
+version: 0.1
+author: timvisee
+website: http://timvisee.com/
+softdepend: [DungeonMaze]
+commands: {}
